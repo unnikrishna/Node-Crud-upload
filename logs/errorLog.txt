@@ -1,0 +1,12 @@
+20230531	23:48:05	b04583d4-91ff-40dd-aaeb-297f81467a93	Error: Not allowed by CORS
+20230816	22:33:22	45600292-041a-4d2e-8f0b-e4905784bee6	ReferenceError: log is not defined
+20230816	22:34:09	f92048bd-59ec-4bdd-9c7c-b221847a2886	ReferenceError: log is not defined
+20230816	22:34:09	38d5f3e1-b261-4b24-b8b0-524fcd4dcd70	ReferenceError: log is not defined
+20230816	22:34:18	2154308a-98ea-4538-b6a7-5fd6f68f33de	ReferenceError: log is not defined
+20230816	22:34:18	8d35a2cf-efae-4b54-9416-4d1afce5bd34	ReferenceError: log is not defined
+20230816	22:34:37	c9ac13dc-1e55-494c-9028-36747b31af78	ReferenceError: log is not defined
+20230816	22:34:37	99b89219-ddb2-4bc8-92bd-22c4e0ea1755	ReferenceError: log is not defined
+20230816	22:34:39	7b99b066-0312-4992-8c87-f51b00cbf4bf	ReferenceError: log is not defined
+20230816	22:34:39	bd32fb5f-0203-4152-b7af-ee1bdd1e6b42	ReferenceError: log is not defined
+20230818	00:14:16	cf5f2690-e5c9-4616-8273-2f684491ba9f	TypeError: res.senStatus is not a function
+20230818	00:16:50	bb1566e2-1c91-4e69-8c29-4f0e0715aaa1	TypeError: req.roles.filter(...).length is not a function
